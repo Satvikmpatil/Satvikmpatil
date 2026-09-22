@@ -1,47 +1,38 @@
 # Hi, I'm Satvik Patil
 
-**SDE I / Full Stack Engineer** at Barracuda Networks
+**Software Engineer 1** at Barracuda Networks
 
 *i am just obsessed with my work*
 
 ---
 
-### About Me
-
-- Building cloud security products at **Barracuda Networks** (Data Inspector for OneDrive & SharePoint)
-- 2+ years of experience with **Go, PostgreSQL, React, and gRPC**
-- Passionate about scalable system design and clean code
+- Building cloud security products (Data Inspector)
+- 2+ years with Go, PostgreSQL, React, gRPC
+- Love clean code & scalable systems
 
 ---
 
 ### Tech Stack
 
-**Languages:** Go, Java, JavaScript, C
-
-**Backend:** REST APIs, gRPC, gRPC Gateway, Gin
-
-**Frontend:** React, Redux, HTML, CSS
-
-**Database:** PostgreSQL, Redis
-
-**Cloud & DevOps:** AWS, Docker, Kubernetes
-
-**Auth & Testing:** JWT, PASETO, Unit Testing, gomock
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ### Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Banking Microservices Platform](https://github.com/Satvikmpatil/backend) | Production-ready banking backend with secure money transfers, auth, RBAC, Redis workers | Go, PostgreSQL, gRPC, Kubernetes, AWS |
-| [Learning Go](https://github.com/Satvikmpatil/Golang) | Notes & code from "Learning Go" by Jon Bodner (16 chapters) | Go |
-| [CloudDefender](https://github.com/Satvikmpatil/CloudDefender) | AWS WAF integration for web application security | AWS, Python |
-| [My Portfolio](https://github.com/Satvikmpatil/My-Profile) | Personal portfolio website | React, TypeScript |
+- [**Banking Microservices**](https://github.com/Satvikmpatil/backend) — Go, gRPC, Postgres, K8s, AWS
+- [**Learning Go**](https://github.com/Satvikmpatil/Golang) — Book notes (16 chapters)
+- [**CloudDefender**](https://github.com/Satvikmpatil/CloudDefender) — AWS WAF security
+- [**Portfolio**](https://satvikpatil.dev) — My personal site
 
 ---
-
-### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvikpatil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://satvikpatil.dev)
@@ -50,4 +41,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satvikmpatil&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satvikmpatil&show_icons=true&theme=dark&hide_border=true&hide_title=true)
